@@ -7,4 +7,4 @@ const port = process.env.PORT || 3200; // <== You can change the port
 server.use(middlewares);
 server.use(router);
 
-server.listen(port);s
+server.listen(port);
